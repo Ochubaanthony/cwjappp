@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cwjappp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87fcd03ef3a92f1300d700bf3c89db49de3ad3fc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f05234afff3cc4aa335b80c9bc9a7c225584cd6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("cwjappp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cwjappp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
