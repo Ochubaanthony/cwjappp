@@ -1,0 +1,7 @@
+/Users/anthonyochuba/Desktop/cwjappp/cwjappp/bin/Release/net7.0/publish/cwjappp
+/Users/anthonyochuba/Desktop/cwjappp/cwjappp/bin/Release/net7.0/publish/appsettings.Development.json
+/Users/anthonyochuba/Desktop/cwjappp/cwjappp/bin/Release/net7.0/publish/appsettings.json
+/Users/anthonyochuba/Desktop/cwjappp/cwjappp/bin/Release/net7.0/publish/cwjappp.dll
+/Users/anthonyochuba/Desktop/cwjappp/cwjappp/bin/Release/net7.0/publish/cwjappp.deps.json
+/Users/anthonyochuba/Desktop/cwjappp/cwjappp/bin/Release/net7.0/publish/cwjappp.runtimeconfig.json
+/Users/anthonyochuba/Desktop/cwjappp/cwjappp/bin/Release/net7.0/publish/cwjappp.pdb
